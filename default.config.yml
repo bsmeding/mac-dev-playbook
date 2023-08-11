@@ -12,9 +12,9 @@ dockitems_remove:
 - TV
 - Podcasts
 - 'App Store'
-- Facetime
+- FaceTime
 - Messages
-- Contacts
+- Contacten
 - Music
 dockitems_persist: 
   - name: "Sublime Text"
@@ -75,6 +75,7 @@ homebrew_cask_apps:
   - visual-studio-code
   - keepassx
   - github
+  - authy
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
